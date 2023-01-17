@@ -1,0 +1,5 @@
+hello world
+An apple
+hello C++
+A man
+a program
