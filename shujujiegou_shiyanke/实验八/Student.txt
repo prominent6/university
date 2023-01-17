@@ -1,0 +1,8 @@
+6
+xiaoa 100
+xiaob 97
+xiaoc 99
+xiaod 87
+xiaoe 90
+xiaof 87
+
